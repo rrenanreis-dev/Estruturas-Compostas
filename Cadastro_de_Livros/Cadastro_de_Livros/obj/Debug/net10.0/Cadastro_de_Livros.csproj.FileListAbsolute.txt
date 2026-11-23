@@ -1,0 +1,15 @@
+C:\Users\Renan\source\repos\Cadastro_de_Livros\Cadastro_de_Livros\bin\Debug\net10.0\Cadastro_de_Livros.exe
+C:\Users\Renan\source\repos\Cadastro_de_Livros\Cadastro_de_Livros\bin\Debug\net10.0\Cadastro_de_Livros.deps.json
+C:\Users\Renan\source\repos\Cadastro_de_Livros\Cadastro_de_Livros\bin\Debug\net10.0\Cadastro_de_Livros.runtimeconfig.json
+C:\Users\Renan\source\repos\Cadastro_de_Livros\Cadastro_de_Livros\bin\Debug\net10.0\Cadastro_de_Livros.dll
+C:\Users\Renan\source\repos\Cadastro_de_Livros\Cadastro_de_Livros\bin\Debug\net10.0\Cadastro_de_Livros.pdb
+C:\Users\Renan\source\repos\Cadastro_de_Livros\Cadastro_de_Livros\obj\Debug\net10.0\Cadastro_de_Livros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renan\source\repos\Cadastro_de_Livros\Cadastro_de_Livros\obj\Debug\net10.0\Cadastro_de_Livros.AssemblyInfoInputs.cache
+C:\Users\Renan\source\repos\Cadastro_de_Livros\Cadastro_de_Livros\obj\Debug\net10.0\Cadastro_de_Livros.AssemblyInfo.cs
+C:\Users\Renan\source\repos\Cadastro_de_Livros\Cadastro_de_Livros\obj\Debug\net10.0\Cadastro_de_Livros.csproj.CoreCompileInputs.cache
+C:\Users\Renan\source\repos\Cadastro_de_Livros\Cadastro_de_Livros\obj\Debug\net10.0\Cadastro_de_Livros.dll
+C:\Users\Renan\source\repos\Cadastro_de_Livros\Cadastro_de_Livros\obj\Debug\net10.0\refint\Cadastro_de_Livros.dll
+C:\Users\Renan\source\repos\Cadastro_de_Livros\Cadastro_de_Livros\obj\Debug\net10.0\Cadastro_de_Livros.pdb
+C:\Users\Renan\source\repos\Cadastro_de_Livros\Cadastro_de_Livros\obj\Debug\net10.0\Cadastro_de_Livros.genruntimeconfig.cache
+C:\Users\Renan\source\repos\Cadastro_de_Livros\Cadastro_de_Livros\obj\Debug\net10.0\ref\Cadastro_de_Livros.dll
+C:\Users\Renan\source\repos\Cadastro_de_Livros\Cadastro_de_Livros\obj\Debug\net10.0\Cadastro.B714F10B.Up2Date

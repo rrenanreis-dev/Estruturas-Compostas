@@ -1,0 +1,15 @@
+C:\Users\Renan\source\repos\Cadastro_de_Eletro\Cadastro_de_Eletro\bin\Debug\net10.0\Cadastro_de_Eletro.exe
+C:\Users\Renan\source\repos\Cadastro_de_Eletro\Cadastro_de_Eletro\bin\Debug\net10.0\Cadastro_de_Eletro.deps.json
+C:\Users\Renan\source\repos\Cadastro_de_Eletro\Cadastro_de_Eletro\bin\Debug\net10.0\Cadastro_de_Eletro.runtimeconfig.json
+C:\Users\Renan\source\repos\Cadastro_de_Eletro\Cadastro_de_Eletro\bin\Debug\net10.0\Cadastro_de_Eletro.dll
+C:\Users\Renan\source\repos\Cadastro_de_Eletro\Cadastro_de_Eletro\bin\Debug\net10.0\Cadastro_de_Eletro.pdb
+C:\Users\Renan\source\repos\Cadastro_de_Eletro\Cadastro_de_Eletro\obj\Debug\net10.0\Cadastro_de_Eletro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renan\source\repos\Cadastro_de_Eletro\Cadastro_de_Eletro\obj\Debug\net10.0\Cadastro_de_Eletro.AssemblyInfoInputs.cache
+C:\Users\Renan\source\repos\Cadastro_de_Eletro\Cadastro_de_Eletro\obj\Debug\net10.0\Cadastro_de_Eletro.AssemblyInfo.cs
+C:\Users\Renan\source\repos\Cadastro_de_Eletro\Cadastro_de_Eletro\obj\Debug\net10.0\Cadastro_de_Eletro.csproj.CoreCompileInputs.cache
+C:\Users\Renan\source\repos\Cadastro_de_Eletro\Cadastro_de_Eletro\obj\Debug\net10.0\Cadastro_de_Eletro.dll
+C:\Users\Renan\source\repos\Cadastro_de_Eletro\Cadastro_de_Eletro\obj\Debug\net10.0\refint\Cadastro_de_Eletro.dll
+C:\Users\Renan\source\repos\Cadastro_de_Eletro\Cadastro_de_Eletro\obj\Debug\net10.0\Cadastro_de_Eletro.pdb
+C:\Users\Renan\source\repos\Cadastro_de_Eletro\Cadastro_de_Eletro\obj\Debug\net10.0\Cadastro_de_Eletro.genruntimeconfig.cache
+C:\Users\Renan\source\repos\Cadastro_de_Eletro\Cadastro_de_Eletro\obj\Debug\net10.0\ref\Cadastro_de_Eletro.dll
+C:\Users\Renan\source\repos\Cadastro_de_Eletro\Cadastro_de_Eletro\obj\Debug\net10.0\Cadastro.ACCF20A2.Up2Date

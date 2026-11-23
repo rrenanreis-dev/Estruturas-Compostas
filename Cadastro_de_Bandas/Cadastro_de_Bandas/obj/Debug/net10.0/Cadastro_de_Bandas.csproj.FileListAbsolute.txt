@@ -1,0 +1,15 @@
+C:\Users\Renan\source\repos\Cadastro_de_Bandas\Cadastro_de_Bandas\obj\Debug\net10.0\Cadastro_de_Bandas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renan\source\repos\Cadastro_de_Bandas\Cadastro_de_Bandas\obj\Debug\net10.0\Cadastro_de_Bandas.AssemblyInfoInputs.cache
+C:\Users\Renan\source\repos\Cadastro_de_Bandas\Cadastro_de_Bandas\obj\Debug\net10.0\Cadastro_de_Bandas.AssemblyInfo.cs
+C:\Users\Renan\source\repos\Cadastro_de_Bandas\Cadastro_de_Bandas\obj\Debug\net10.0\Cadastro_de_Bandas.csproj.CoreCompileInputs.cache
+C:\Users\Renan\source\repos\Cadastro_de_Bandas\Cadastro_de_Bandas\bin\Debug\net10.0\Cadastro_de_Bandas.exe
+C:\Users\Renan\source\repos\Cadastro_de_Bandas\Cadastro_de_Bandas\bin\Debug\net10.0\Cadastro_de_Bandas.deps.json
+C:\Users\Renan\source\repos\Cadastro_de_Bandas\Cadastro_de_Bandas\bin\Debug\net10.0\Cadastro_de_Bandas.runtimeconfig.json
+C:\Users\Renan\source\repos\Cadastro_de_Bandas\Cadastro_de_Bandas\bin\Debug\net10.0\Cadastro_de_Bandas.dll
+C:\Users\Renan\source\repos\Cadastro_de_Bandas\Cadastro_de_Bandas\bin\Debug\net10.0\Cadastro_de_Bandas.pdb
+C:\Users\Renan\source\repos\Cadastro_de_Bandas\Cadastro_de_Bandas\obj\Debug\net10.0\Cadastro_de_Bandas.dll
+C:\Users\Renan\source\repos\Cadastro_de_Bandas\Cadastro_de_Bandas\obj\Debug\net10.0\refint\Cadastro_de_Bandas.dll
+C:\Users\Renan\source\repos\Cadastro_de_Bandas\Cadastro_de_Bandas\obj\Debug\net10.0\Cadastro_de_Bandas.pdb
+C:\Users\Renan\source\repos\Cadastro_de_Bandas\Cadastro_de_Bandas\obj\Debug\net10.0\Cadastro_de_Bandas.genruntimeconfig.cache
+C:\Users\Renan\source\repos\Cadastro_de_Bandas\Cadastro_de_Bandas\obj\Debug\net10.0\ref\Cadastro_de_Bandas.dll
+C:\Users\Renan\source\repos\Cadastro_de_Bandas\Cadastro_de_Bandas\obj\Debug\net10.0\Cadastro.DDF621E2.Up2Date
