@@ -1,0 +1,4 @@
+Castlevania: Aria of Sorrow;GBA;2003;1;N;;
+Shadow of The Colossus;PS2;2005;2;N;;
+THE Witcher 3;PC;2015;3;N;;
+Resident Evil 4;PS2;2005;4;S;Renan Reis;23/11/2026

@@ -1,0 +1,15 @@
+C:\Users\Renan\source\repos\Cadastro_de_Jogos\Cadastro_de_Jogos\bin\Debug\net10.0\Cadastro_de_Jogos.exe
+C:\Users\Renan\source\repos\Cadastro_de_Jogos\Cadastro_de_Jogos\bin\Debug\net10.0\Cadastro_de_Jogos.deps.json
+C:\Users\Renan\source\repos\Cadastro_de_Jogos\Cadastro_de_Jogos\bin\Debug\net10.0\Cadastro_de_Jogos.runtimeconfig.json
+C:\Users\Renan\source\repos\Cadastro_de_Jogos\Cadastro_de_Jogos\bin\Debug\net10.0\Cadastro_de_Jogos.dll
+C:\Users\Renan\source\repos\Cadastro_de_Jogos\Cadastro_de_Jogos\bin\Debug\net10.0\Cadastro_de_Jogos.pdb
+C:\Users\Renan\source\repos\Cadastro_de_Jogos\Cadastro_de_Jogos\obj\Debug\net10.0\Cadastro_de_Jogos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renan\source\repos\Cadastro_de_Jogos\Cadastro_de_Jogos\obj\Debug\net10.0\Cadastro_de_Jogos.AssemblyInfoInputs.cache
+C:\Users\Renan\source\repos\Cadastro_de_Jogos\Cadastro_de_Jogos\obj\Debug\net10.0\Cadastro_de_Jogos.AssemblyInfo.cs
+C:\Users\Renan\source\repos\Cadastro_de_Jogos\Cadastro_de_Jogos\obj\Debug\net10.0\Cadastro_de_Jogos.csproj.CoreCompileInputs.cache
+C:\Users\Renan\source\repos\Cadastro_de_Jogos\Cadastro_de_Jogos\obj\Debug\net10.0\Cadastro_de_Jogos.dll
+C:\Users\Renan\source\repos\Cadastro_de_Jogos\Cadastro_de_Jogos\obj\Debug\net10.0\refint\Cadastro_de_Jogos.dll
+C:\Users\Renan\source\repos\Cadastro_de_Jogos\Cadastro_de_Jogos\obj\Debug\net10.0\Cadastro_de_Jogos.pdb
+C:\Users\Renan\source\repos\Cadastro_de_Jogos\Cadastro_de_Jogos\obj\Debug\net10.0\Cadastro_de_Jogos.genruntimeconfig.cache
+C:\Users\Renan\source\repos\Cadastro_de_Jogos\Cadastro_de_Jogos\obj\Debug\net10.0\ref\Cadastro_de_Jogos.dll
+C:\Users\Renan\source\repos\Cadastro_de_Jogos\Cadastro_de_Jogos\obj\Debug\net10.0\Cadastro.FDAC3A45.Up2Date
